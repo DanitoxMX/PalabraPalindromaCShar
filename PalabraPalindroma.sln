@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalabraPalindroma", "PalabraPalindroma\PalabraPalindroma.csproj", "{92EC711F-AFF3-49A8-A5C3-7AAFD176B453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EC711F-AFF3-49A8-A5C3-7AAFD176B453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EC711F-AFF3-49A8-A5C3-7AAFD176B453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EC711F-AFF3-49A8-A5C3-7AAFD176B453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EC711F-AFF3-49A8-A5C3-7AAFD176B453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132F9B79-5809-4BA2-9700-B8F6F15A965C}
+	EndGlobalSection
+EndGlobal
